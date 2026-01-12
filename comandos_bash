@@ -1,3 +1,18 @@
 ls  - 	lista os arquivos
 cd  -   caminha pelos diretorios
 pwd - lista o caminho completo
+
+$ cat comandos_bash
+$ ls -la
+
+
+
+
+$ git commit -m "primeiros comandos bash"
+$ git config --global user.name
+$ git config --global user.email
+$ git config --global user.name "elivelto_maciel"
+$ git config --global user.email "elivelto_maciel@yahoo.com.br"
+$ git status
+$ git add comandos_bash
+$ git init .
