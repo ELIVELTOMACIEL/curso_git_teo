@@ -7,3 +7,7 @@ REMOTO COM GITHUB
 ALEM DISSO, VAMOS TRABALHAR COM GITFLOW AO FINAL DO CURSO E VS CODE
 
 CONFIRA TUDO
+
+se liga no nosso canal do youtube
+
+testando o arquivo README
