@@ -25,3 +25,7 @@ $ git checkout -b secundaria
 
 $ git branch
 
+$ git merge secundaria
+
+$ git checkout main (nome da branch)
+
