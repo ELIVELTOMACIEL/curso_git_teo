@@ -8,5 +8,6 @@ ALEM DISSO, VAMOS TRABALHAR COM GITFLOW AO FINAL DO CURSO E VS CODE
 
 CONFIRA TUDO
 
+se liga no nosso canal do youtube
 
-curso git e github
+testando o arquivo README
