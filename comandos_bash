@@ -16,3 +16,10 @@ $ git config --global user.email "elivelto_maciel@yahoo.com.br"
 $ git status
 $ git add comandos_bash
 $ git init .
+
+$ git diff nome_arquivo
+
+$ git reset comandos_git.txt
+
+
+
