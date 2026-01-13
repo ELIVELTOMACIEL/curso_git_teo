@@ -21,11 +21,15 @@ $ git diff nome_arquivo
 
 $ git reset comandos_git.txt
 
-$ git checkout -b secundaria
+$ git checkout -b (nome da branch a ser criada ) secundaria
 
 $ git branch
 
 $ git merge secundaria
 
 $ git checkout main (nome da branch)
+
+$ git branch -D (nome da branch a ser excluida)
+
+$ git chechou
 
