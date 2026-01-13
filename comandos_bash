@@ -21,5 +21,7 @@ $ git diff nome_arquivo
 
 $ git reset comandos_git.txt
 
+$ git checkout -b secundaria
 
+$ git branch
 
